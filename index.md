@@ -107,7 +107,7 @@ title: Home
     <h2>🏆 Achievements</h2>
     <ul class="list">
         <li>🏅 **Ranked 650 in JEE Advanced** out of 200,000 participants</li>
-        <li>🏅 **Employee of the Month** at Riskcovry (Sep 2022)</li>
+        <li>🏅Game changer employee award at Riskcovry </li>
         <li>🏅 **Dean's List** in 7th semester at IIT Gandhinagar</li>
         <li>🏅 **Represented IIT Gandhinagar in Inter-IIT Sports** (Volleyball)</li>
     </ul>
