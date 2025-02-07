@@ -22,8 +22,8 @@ title: Profile
 email: shahidshareef0102@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Tech Enthusiast | Web Developer | Problem Solver
-baseurl: ""  # Keep it empty for GitHub Pages
-url: "https://github.com/shahid-43"  # the base hostname & protocol for your site
+baseurl: "/portfolio"  # Keep it empty for GitHub Pages
+url: "https://shahid-43.github.io"  # the base hostname & protocol for your site
 linkedin: mohammad shahid shareef
 github_username:  shahid-43
 

@@ -95,12 +95,12 @@ title: Home
 <div class="section">
     <h2>🚀 Featured Projects</h2>
     <ul class="list">
-        <li>⭐ **[Reddit Engine](projects/#reddit-engine-and-client)** - A distributed Reddit-like platform in Golang.</li>
-        <li>⭐ **[CHORD Protocol](projects/#chord-protocol-for-simple-object-access-service)** - Distributed Hash Table implementation.</li>
-        <li>⭐ **[Rust Shell](projects/#rust-shell)** - A custom-built Linux shell in Rust.</li>
-        <li>⭐ **[Darklight Image Enhancement](projects/#darklight-image-enhancement)** - AI-based low-light image enhancement.</li>
+        <li>⭐ **[Reddit Engine]** - A distributed Reddit-like platform in Golang.</li>
+        <li>⭐ **[CHORD Protocol]** - Distributed Hash Table implementation.</li>
+        <li>⭐ **[Rust Shell]** - A custom-built Linux shell in Rust.</li>
+        <li>⭐ **[Darklight Image Enhancement]** - AI-based low-light image enhancement.</li>
     </ul>
-    <p>🔗 Check out all my <a href="{{ site.baseurl }}/projects">projects here</a>!</p>
+    <p>🔗 Check out all my <a href="{{ site.url }}{{ site.baseurl }}/projects">projects here</a>!</p>
 </div>
 
 <div class="section">
@@ -115,8 +115,8 @@ title: Home
 
 <div class="section">
     <h2>📬 Get in Touch</h2>
-    <p>📧 **Email:** [shahidshareef0102@gmail.com](mailto:shahidshareef0102@gmail.com)</p>
-    <p>💼 **LinkedIn:** [linkedin.com/in/shahidshareef](https://linkedin.com/in/shahidshareef)</p>
-    <p>🐙 **GitHub:** [github.com/shahidshareef](https://github.com/shahidshareef)</p>
+    <p>📧 **Email:** shahidshareef0102@gmail.com</p>
+    <p>💼 **LinkedIn:** https://linkedin.com/in/shahidshareef</p>
+    <p>🐙 **GitHub:** https://github.com/shahid-43</p>
     <p>📱 **Phone:** +1 352-246-2892</p>
 </div>

@@ -151,5 +151,5 @@ permalink: /projects/
 
 <div class="section">
     <h2>🎯 Want to see more?</h2>
-    <p>💼 Check out my full portfolio or <a href="{{ site.baseurl }}/contact">Contact Me</a> for project demos and repositories!</p>
+    <p>💼 Check out my full portfolio or <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact Me</a> for project demos and repositories!</p>
 </div>
