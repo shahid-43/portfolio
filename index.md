@@ -5,7 +5,7 @@ title: Home
 
 <style>
 .hero {
-    text-align: left;
+    text-align: center;
     background: linear-gradient(to right, #3a7bd5, #3a6073);
     color: white;
     max-width: 100%;
@@ -28,7 +28,7 @@ title: Home
     border-radius: 10px;
     background-color: #f4f4f4;
     margin: 20px 0;
-    text-align: left;
+    text-align: center;
 }
 
 .section h2 {
