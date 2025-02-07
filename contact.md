@@ -31,9 +31,9 @@ permalink: /contact/
 <div class="section">
     <h2>📬 Get in Touch</h2>
     <ul class="list">
-        <li>📧 **Email:** [shahidshareef0102@gmail.com](mailto:shahidshareef0102@gmail.com)</li>
-        <li>💼 **LinkedIn:** [linkedin.com/in/shahidshareef](https://linkedin.com/in/shahidshareef)</li>
-        <li>🐙 **GitHub:** [github.com/shahidshareef](https://github.com/shahidshareef)</li>
-        <li>📱 **Phone:** +1 352-246-2892</li>
+        <li>📧 **Email:** shahidshareef0102@gmail.com</li>
+    <li>💼 **LinkedIn:** https://linkedin.com/in/shahidshareef</li>
+    <li>🐙 **GitHub:** https://github.com/shahid-43</li>
+    <li>📱 **Phone:** +1 352-246-2892</li>
     </ul>
 </div>
